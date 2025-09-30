@@ -1,0 +1,90 @@
+---
+title: "Examples & Use Cases"
+subtitle: "Complete demonstrations of prompt library applications"
+description: "Real-world examples showing how to effectively use prompts from the library"
+---
+
+## Example Overview
+
+This section provides comprehensive examples of how to use the Public Health Intelligence Prompts Library in real-world scenarios. Each example demonstrates the complete workflow from prompt selection to implementation.
+
+## Available Examples
+
+### [Foodborne Illness Investigation](foodborne-illness-investigation.qmd)
+
+A complete step-by-step example demonstrating how to use multiple prompts from the library to conduct a foodborne illness outbreak investigation.
+
+**What you'll learn:**
+- How to select appropriate prompts for your use case
+- Step-by-step prompt customization process
+- Integration of multiple prompt outputs
+- Best practices for real-world implementation
+
+**Prompts demonstrated:**
+- Outbreak Investigation Analysis (Epidemiology)
+- Emergency Risk Assessment (Risk Assessment)  
+- Weekly Surveillance Report (Reporting)
+
+## How to Use These Examples
+
+### For New Users
+1. **Start here** to understand the library's practical applications
+2. **Follow the workflows** to see complete implementation processes
+3. **Adapt the examples** to your specific contexts and needs
+
+### For Experienced Users
+- **Reference implementations** for complex multi-prompt workflows
+- **Best practice demonstrations** for quality assurance
+- **Template workflows** for similar scenarios
+
+## Example Categories
+
+### Investigation Workflows
+- Outbreak investigation processes
+- Case study development
+- Multi-agency coordination examples
+
+### Reporting Workflows  
+- Regular surveillance reporting
+- Emergency communication protocols
+- Policy briefing development
+
+### Analysis Workflows
+- Statistical analysis planning
+- Risk assessment procedures
+- Data quality evaluation
+
+## Contributing Examples
+
+We welcome examples from the public health community! 
+
+### What Makes a Good Example
+- **Complete workflow** from start to finish
+- **Real-world relevance** (using anonymized/fictional data)
+- **Multiple prompt integration** when applicable
+- **Clear documentation** of decision points
+- **Lessons learned** and best practices
+
+### Submission Process
+See our [Contributing Guidelines](../contributing.qmd) for:
+- Example submission requirements
+- Review process for new examples
+- Community feedback integration
+
+---
+
+::: {.callout-note}
+## Coming Soon
+
+Additional examples are in development:
+
+- **Policy Development Workflow**: Evidence synthesis to implementation
+- **Emergency Response Coordination**: Multi-agency incident management
+- **Community Health Assessment**: Population health analysis and planning
+:::
+
+::: {.callout-tip}
+## Have a Success Story?
+
+If you've successfully used the prompt library in your work, we'd love to feature your example (with appropriate anonymization). Contact us through [GitHub Issues](https://github.com/gigisung0503/PromptLibraryPHI/issues) or [Discussions](https://github.com/gigisung0503/PromptLibraryPHI/discussions).
+:::

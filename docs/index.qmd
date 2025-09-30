@@ -1,0 +1,119 @@
+---
+title: "Documentation"
+subtitle: "Comprehensive guides and best practices"
+description: "Detailed documentation for using the Public Health Intelligence Prompts Library effectively"
+---
+
+## Documentation Overview
+
+This section provides comprehensive guidance for using the Public Health Intelligence Prompts Library effectively and safely in professional public health practice.
+
+## Available Documentation
+
+### [Usage Guidelines](usage-guidelines.qmd)
+
+Comprehensive guide covering:
+- How to select appropriate prompts
+- Best practices for prompt customization
+- AI tool integration strategies
+- Quality assurance and validation procedures
+- Privacy and ethical considerations
+
+## Quick Reference Guides
+
+### Getting Started Checklist
+
+::: {.callout-tip}
+## New to the Library?
+
+1. ✅ Review [Usage Guidelines](usage-guidelines.qmd)
+2. ✅ Explore relevant [prompt categories](../prompts/)
+3. ✅ Check out [real-world examples](../examples/)
+4. ✅ Start with basic complexity prompts
+5. ✅ Always validate AI outputs with domain expertise
+:::
+
+### Prompt Selection Guide
+
+| Your Role | Recommended Starting Points |
+|-----------|---------------------------|
+| **Epidemiologist** | [Outbreak Investigation](../prompts/epidemiology/outbreak-investigation.qmd) |
+| **Surveillance Specialist** | [System Evaluation](../prompts/surveillance/system-evaluation.qmd) |
+| **Data Analyst** | [Statistical Analysis](../prompts/data-analysis/statistical-analysis.qmd) |
+| **Policy Maker** | [Policy Development](../prompts/policy/) |
+| **Emergency Coordinator** | [Risk Assessment](../prompts/risk-assessment/emergency-risk-assessment.qmd) |
+
+### Complexity Levels
+
+- **Basic**: Ready-to-use prompts requiring minimal customization
+- **Intermediate**: Prompts requiring domain knowledge for effective customization
+- **Advanced**: Complex prompts requiring significant expertise and validation
+
+## Technical Documentation
+
+### AI Platform Compatibility
+
+The library is designed to work with:
+- **ChatGPT** (OpenAI)
+- **Claude** (Anthropic)
+- **Gemini** (Google)
+- **Custom API integrations**
+- **Local AI models**
+
+### Integration Methods
+
+1. **Copy-Paste**: Direct use in web interfaces
+2. **API Integration**: Programmatic prompt management
+3. **Workflow Tools**: Integration with existing systems
+4. **Custom Applications**: Embedded in organization-specific tools
+
+## Quality Assurance
+
+### Validation Framework
+
+All prompts undergo:
+- **Technical review** by AI/ML specialists
+- **Domain review** by public health experts
+- **Testing** with realistic scenarios
+- **Community feedback** integration
+
+### Continuous Improvement
+
+- Regular updates based on user feedback
+- Performance monitoring and optimization
+- Expansion based on community needs
+- Integration of latest AI best practices
+
+## Support Resources
+
+### Community Support
+- [GitHub Discussions](https://github.com/gigisung0503/PromptLibraryPHI/discussions) - Community Q&A
+- [GitHub Issues](https://github.com/gigisung0503/PromptLibraryPHI/issues) - Bug reports and feature requests
+
+### Professional Networks
+- Public health AI communities
+- Epidemiology professional associations
+- Digital health working groups
+
+---
+
+::: {.callout-important}
+## Professional Responsibility
+
+Remember that AI tools are assistants, not replacements for professional judgment. Always:
+
+- Validate outputs with qualified experts
+- Follow organizational policies and procedures
+- Maintain appropriate professional standards
+- Ensure compliance with privacy regulations
+:::
+
+::: {.callout-note}
+## Feedback Welcome
+
+Have suggestions for improving our documentation? Found something unclear? We welcome feedback through:
+
+- [GitHub Issues](https://github.com/gigisung0503/PromptLibraryPHI/issues) for specific problems
+- [GitHub Discussions](https://github.com/gigisung0503/PromptLibraryPHI/discussions) for general feedback
+- Direct contributions via pull requests
+:::

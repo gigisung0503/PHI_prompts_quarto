@@ -1,0 +1,61 @@
+---
+title: "Policy Development Prompts"
+subtitle: "Public health policy development and analysis tools"
+description: "Evidence-based prompts for developing, analyzing, and implementing public health policies"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Public health policy development and analysis prompts.
+
+## Categories
+
+- **Policy Analysis** - Evaluating existing policies and their impacts
+- **Policy Development** - Creating new public health policies
+- **Evidence Synthesis** - Integrating research into policy recommendations
+- **Stakeholder Engagement** - Involving communities in policy development
+- **Implementation Planning** - Strategies for policy implementation
+- **Policy Evaluation** - Assessing policy effectiveness and outcomes
+
+## Policy Areas
+
+- Health promotion and disease prevention
+- Health equity and social determinants
+- Environmental health regulations
+- Emergency preparedness policies
+- Healthcare system policies
+
+## Available Prompts
+
+:::{.callout-note title="Coming Soon"}
+Policy development prompts are currently under development. These will include comprehensive frameworks for:
+
+- Policy brief development
+- Stakeholder analysis and engagement
+- Evidence review and synthesis
+- Impact assessment methodologies
+- Implementation planning strategies
+- Policy evaluation frameworks
+:::
+
+## Getting Started
+
+When policy development prompts become available, they will help you:
+
+1. **Analyze existing policies** for gaps and effectiveness
+2. **Develop evidence-based recommendations** using best practices
+3. **Engage stakeholders** throughout the policy development process
+4. **Plan implementation strategies** that consider local contexts
+
+## Best Practices
+
+- Base policy recommendations on strong evidence
+- Engage diverse stakeholders early and often
+- Consider health equity implications in all policies
+- Plan for implementation challenges and barriers
+- Include evaluation metrics from the beginning
+- Address social determinants of health
+- Ensure policies are culturally appropriate and feasible

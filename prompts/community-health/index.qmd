@@ -1,0 +1,57 @@
+---
+title: "Community Health Prompts"
+subtitle: "Community engagement and health promotion tools"
+description: "Prompts for designing community-centered health interventions and population health improvement initiatives"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Community engagement and health promotion prompts for population health improvement.
+
+## Categories
+
+- **Health Promotion** - Designing health promotion campaigns and interventions
+- **Community Engagement** - Involving communities in health initiatives
+- **Health Education** - Developing educational materials and programs
+- **Social Determinants** - Addressing social factors that affect health
+- **Cultural Competency** - Culturally appropriate health interventions
+- **Partnership Development** - Building community health partnerships
+
+## Focus Areas
+
+- Behavioral change interventions
+- Health literacy improvement
+- Community-based participatory research
+- Health equity initiatives
+- Prevention programs
+
+## Available Prompts
+
+### Health Promotion
+
+:::{.callout-tip title="Campaign Development"}
+[**Health Promotion Campaign Development**](campaign-development.qmd)
+
+Comprehensive prompt for developing culturally appropriate health promotion campaigns that effectively reach and engage target populations.
+
+**Complexity:** Advanced | **Tags:** health promotion, campaign development, community engagement, behavior change
+:::
+
+## Getting Started
+
+1. **Select the appropriate prompt** based on your specific community health objective
+2. **Customize the variables** with your specific population, geographic area, and health focus
+3. **Consider local context** including cultural factors, existing resources, and community assets
+4. **Plan for community involvement** in both development and implementation phases
+
+## Best Practices
+
+- Involve community members as partners, not just participants
+- Address social determinants of health in intervention design
+- Use culturally responsive and linguistically appropriate approaches
+- Build on existing community assets and strengths
+- Plan for sustainability from the outset
+- Include evaluation and continuous improvement processes

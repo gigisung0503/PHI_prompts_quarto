@@ -1,0 +1,57 @@
+---
+title: "Data Analysis Prompts"
+subtitle: "Statistical analysis tools for public health intelligence"
+description: "Comprehensive prompts for statistical analysis and data interpretation in public health research and surveillance"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Statistical analysis and data interpretation prompts for public health intelligence.
+
+## Categories
+
+- **Descriptive Statistics** - Summarizing and describing health data
+- **Statistical Testing** - Hypothesis testing and inference
+- **Regression Analysis** - Modeling relationships in health data
+- **Time Series Analysis** - Analyzing trends over time
+- **Geospatial Analysis** - Spatial patterns in health data
+- **Data Visualization** - Creating effective health data visualizations
+
+## Analysis Types
+
+- Univariate and multivariate analysis
+- Comparative studies
+- Trend analysis
+- Risk factor identification
+- Predictive modeling
+
+## Available Prompts
+
+### Statistical Testing
+
+:::{.callout-tip title="Statistical Analysis"}
+[**Health Data Statistical Analysis**](statistical-analysis.qmd)
+
+Expert guidance on selecting appropriate statistical methods and developing analysis plans for public health surveillance and research projects.
+
+**Complexity:** Intermediate | **Tags:** statistical analysis, biostatistics, data analysis, epidemiology, surveillance
+:::
+
+## Getting Started
+
+1. **Define your analysis objectives** clearly before selecting a prompt
+2. **Describe your data characteristics** including study design, sample size, and variable types
+3. **Specify your target population** and any special considerations
+4. **Consider the public health context** of your analysis
+
+## Best Practices
+
+- Always validate statistical assumptions before applying recommended methods
+- Consider both statistical and public health significance
+- Account for potential confounders and effect modifiers
+- Use appropriate visualization techniques for your audience
+- Document your analysis approach for reproducibility
+- Seek subject matter expert review of results and interpretations

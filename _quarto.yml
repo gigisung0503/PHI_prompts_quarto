@@ -1,0 +1,88 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Public Health Intelligence Prompts Library"
+  description: "A comprehensive collection of AI prompts for public health intelligence applications"
+  
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Prompts"
+        menu:
+          - text: "Epidemiology"
+            file: prompts/epidemiology/index.qmd
+          - text: "Surveillance" 
+            file: prompts/surveillance/index.qmd
+          - text: "Data Analysis"
+            file: prompts/data-analysis/index.qmd
+          - text: "Reporting"
+            file: prompts/reporting/index.qmd
+          - text: "Risk Assessment"
+            file: prompts/risk-assessment/index.qmd
+          - text: "Policy"
+            file: prompts/policy/index.qmd
+          - text: "Emergency Response"
+            file: prompts/emergency-response/index.qmd
+          - text: "Community Health"
+            file: prompts/community-health/index.qmd
+          - text: "Training & Education"
+            file: prompts/training-education/index.qmd
+      - text: "Documentation"
+        menu:
+          - text: "Usage Guidelines"
+            file: docs/usage-guidelines.qmd
+          - text: "Templates"
+            file: templates/index.qmd
+          - text: "Examples"
+            file: examples/index.qmd
+          - text: "Contributing"
+            file: contributing.qmd
+    
+    right:
+      - icon: github
+        href: https://github.com/gigisung0503/PromptLibraryPHI
+
+  sidebar:
+    - title: "Prompt Categories"
+      contents:
+        - section: "Core Categories"
+          contents:
+            - prompts/epidemiology/index.qmd
+            - prompts/surveillance/index.qmd
+            - prompts/data-analysis/index.qmd
+            - prompts/reporting/index.qmd
+            - prompts/risk-assessment/index.qmd
+            - prompts/policy/index.qmd
+            - prompts/emergency-response/index.qmd
+            - prompts/community-health/index.qmd
+            - prompts/training-education/index.qmd
+
+  page-footer:
+    background: light
+    left: |
+      © 2024 Public Health Intelligence Prompts Library  
+      Licensed under [MIT License](LICENSE)
+    center: |
+      Built with [Quarto](https://quarto.org)
+    right: |
+      [Contribute](contributing.qmd) | [GitHub](https://github.com/gigisung0503/PromptLibraryPHI)
+
+format:
+  html:
+    theme: 
+      light: [cosmo, custom.scss]
+      dark: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    highlight-style: github
+    html-math-method: katex
+
+execute:
+  freeze: auto

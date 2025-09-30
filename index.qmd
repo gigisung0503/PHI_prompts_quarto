@@ -1,0 +1,182 @@
+---
+title: "Public Health Intelligence Prompts Library"
+subtitle: "A comprehensive collection of AI prompts designed specifically for public health intelligence applications"
+---
+
+## Welcome
+
+This library provides ready-to-use prompts for epidemiologists, public health analysts, surveillance specialists, and other public health professionals to leverage AI tools effectively in their work.
+
+## 📚 Library Structure
+
+### Core Prompt Categories
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+🔬 [Epidemiology](prompts/epidemiology/index.qmd)
+:::
+Disease investigation and analysis  
+*Outbreak investigations, case definitions, contact tracing*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+👁️ [Surveillance](prompts/surveillance/index.qmd)
+:::
+Health monitoring systems  
+*Syndromic surveillance, data quality, early warning*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+📊 [Data Analysis](prompts/data-analysis/index.qmd)
+:::
+Statistical methods and interpretation  
+*Descriptive statistics, regression, time series*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+📋 [Reporting](prompts/reporting/index.qmd)
+:::
+Communication and documentation  
+*Situation reports, policy briefs, technical summaries*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+⚠️ [Risk Assessment](prompts/risk-assessment/index.qmd)
+:::
+Health threat evaluation  
+*Hazard identification, vulnerability analysis*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+🏛️ [Policy](prompts/policy/index.qmd)
+:::
+Public health policy development  
+*Policy analysis, evidence synthesis, implementation*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+🚨 [Emergency Response](prompts/emergency-response/index.qmd)
+:::
+Crisis management  
+*Emergency planning, incident command, coordination*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+🤝 [Community Health](prompts/community-health/index.qmd)
+:::
+Population health improvement  
+*Health promotion, community engagement, education*
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.category-card}
+::: {.category-title}
+🎓 [Training & Education](prompts/training-education/index.qmd)
+:::
+Workforce development  
+*Curriculum design, case studies, competency assessment*
+:::
+:::
+
+:::
+
+## 🚀 Getting Started
+
+### Quick Start Guide
+
+1. **Browse Categories**: Navigate to the relevant category for your use case
+2. **Select Prompts**: Choose prompts that match your specific needs  
+3. **Customize**: Adapt prompts with your specific context and data
+4. **Apply**: Use with your preferred AI assistant or language model
+5. **Validate**: Always review AI outputs with domain expertise
+
+### Example Usage
+
+```markdown
+# Using an Outbreak Investigation Prompt
+
+1. Go to Epidemiology > Outbreak Investigation
+2. Copy the prompt template
+3. Fill in your specific outbreak details:
+   - Disease: Salmonellosis
+   - Location: County X  
+   - Cases: 45 confirmed cases
+4. Submit to your AI assistant
+5. Review recommendations with your epidemiology team
+```
+
+## 🎯 Key Features
+
+- **🔬 Evidence-Based**: Prompts grounded in established public health methodologies
+- **📊 Structured Outputs**: Designed to generate organized, actionable responses
+- **🌍 Adaptable**: Templates that work across different contexts and populations
+- **⚡ Efficient**: Save time on routine analyses and report generation
+- **🔄 Iterative**: Continuously updated based on user feedback and best practices
+
+## 💡 Use Cases
+
+### For Epidemiologists
+- Standardize outbreak investigation procedures
+- Generate case definitions and analysis plans
+- Streamline contact tracing protocols
+
+### For Surveillance Specialists  
+- Design surveillance system evaluations
+- Create data quality assessment frameworks
+- Develop early warning algorithms
+
+### For Public Health Analysts
+- Structure statistical analysis approaches
+- Generate data visualization strategies
+- Create interpretation guidelines
+
+### For Policy Makers
+- Synthesize evidence for policy development
+- Create stakeholder engagement strategies
+- Generate implementation planning frameworks
+
+## 🔒 Privacy and Ethics
+
+::: {.callout-important}
+## Important Disclaimers
+
+- ⚠️ Never include personally identifiable information (PII) in prompts
+- 🔐 Follow your organization's data governance policies  
+- ✅ Always validate AI outputs with subject matter experts
+- 📋 Ensure compliance with applicable regulations (HIPAA, GDPR, etc.)
+:::
+
+## 🛠️ Technical Requirements
+
+- Compatible with major AI platforms (ChatGPT, Claude, Gemini, etc.)
+- Works with both API integrations and web interfaces
+- No special software required - just copy and paste
+
+---
+
+**Disclaimer**: This library is for educational and professional development purposes. AI outputs should always be validated by qualified public health professionals. The maintainers are not responsible for decisions made based on AI-generated content.

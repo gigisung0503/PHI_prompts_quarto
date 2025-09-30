@@ -1,0 +1,61 @@
+---
+title: "Emergency Response Prompts"
+subtitle: "Crisis and emergency management tools"
+description: "Comprehensive prompts for managing public health emergencies, from planning through recovery"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Crisis and emergency management prompts for public health emergencies.
+
+## Categories
+
+- **Emergency Planning** - Developing response plans and protocols
+- **Incident Command** - Managing emergency response operations
+- **Resource Allocation** - Optimizing resource distribution during crises
+- **Communication Strategy** - Crisis communication and public messaging
+- **Coordination** - Multi-agency and multi-sector coordination
+- **Recovery Planning** - Post-emergency recovery and lessons learned
+
+## Emergency Types
+
+- Infectious disease outbreaks
+- Natural disasters and extreme weather
+- Environmental health emergencies
+- Bioterrorism and security threats
+- Mass casualty incidents
+
+## Available Prompts
+
+:::{.callout-note title="Coming Soon"}
+Emergency response prompts are currently under development. These will include comprehensive frameworks for:
+
+- Emergency operations center management
+- Public health emergency declarations
+- Resource mobilization and allocation
+- Crisis communication strategies
+- Multi-agency coordination protocols
+- Community resilience planning
+:::
+
+## Getting Started
+
+When emergency response prompts become available, they will help you:
+
+1. **Develop comprehensive emergency plans** tailored to specific threats
+2. **Coordinate multi-agency responses** effectively
+3. **Manage public communications** during crises
+4. **Allocate resources efficiently** based on priority needs
+
+## Best Practices
+
+- Follow established emergency management frameworks (ICS, NIMS)
+- Maintain regular training and exercises
+- Build strong partnerships before emergencies occur
+- Ensure clear communication channels and protocols
+- Plan for vulnerable and special needs populations
+- Include community engagement and resilience building
+- Conduct after-action reviews for continuous improvement

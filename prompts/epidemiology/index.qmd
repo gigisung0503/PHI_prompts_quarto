@@ -1,0 +1,55 @@
+---
+title: "Epidemiology Prompts"
+subtitle: "Epidemiological analysis and research tools"
+description: "AI prompts specifically designed for epidemiological analysis and research in public health intelligence"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+This section contains AI prompts specifically designed for epidemiological analysis and research in public health intelligence.
+
+## Categories
+
+- **Disease Surveillance** - Prompts for monitoring disease patterns and trends
+- **Outbreak Investigation** - Tools for investigating disease outbreaks and clusters
+- **Case Definition** - Prompts for developing standardized case definitions
+- **Contact Tracing** - AI assistance for contact tracing protocols and analysis
+- **Epidemiological Studies** - Support for study design and data interpretation
+
+## Available Prompts
+
+### Outbreak Investigation
+
+:::{.callout-tip title="Outbreak Investigation"}
+[**Outbreak Investigation Analysis**](outbreak-investigation.qmd)
+
+Comprehensive framework for conducting evidence-based outbreak investigations with structured analytical approaches.
+
+**Complexity:** Advanced | **Tags:** outbreak investigation, epidemiology, disease surveillance, case definition, contact tracing
+:::
+
+## Usage Guidelines
+
+1. **Each prompt is designed to be specific and actionable**
+2. **Include relevant context** about your population and setting
+3. **Review outputs for accuracy** and appropriateness for your specific situation
+4. **Always validate AI-generated content** with domain expertise
+
+## Getting Started
+
+1. **Select the appropriate prompt** based on your epidemiological objective
+2. **Customize variables** with specific disease, population, and geographic details
+3. **Provide relevant context** about data sources, population characteristics, and local factors
+4. **Review recommendations** with local public health authorities
+
+## Best Practices
+
+- Follow established epidemiological principles and protocols
+- Ensure compliance with local investigation requirements
+- Include uncertainty and limitations in analyses
+- Maintain ethical standards for privacy and confidentiality
+- Document methods and assumptions clearly
+- Engage with multidisciplinary teams for comprehensive investigations

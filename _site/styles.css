@@ -1,0 +1,106 @@
+/* Custom styles for Public Health Intelligence Prompts Library */
+
+:root {
+  --ph-primary: #2E7D32;
+  --ph-secondary: #1565C0;
+  --ph-accent: #FF6F00;
+  --ph-success: #4CAF50;
+  --ph-warning: #FF9800;
+  --ph-danger: #F44336;
+}
+
+/* Header styling */
+.navbar {
+  border-bottom: 3px solid var(--ph-primary);
+}
+
+/* Prompt category cards */
+.category-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  transition: box-shadow 0.3s ease;
+}
+
+.category-card:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.category-title {
+  color: var(--ph-primary);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* Prompt metadata styling */
+.prompt-metadata {
+  background-color: #f8f9fa;
+  border-left: 4px solid var(--ph-secondary);
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.complexity-basic {
+  color: var(--ph-success);
+  font-weight: 600;
+}
+
+.complexity-intermediate {
+  color: var(--ph-warning);
+  font-weight: 600;
+}
+
+.complexity-advanced {
+  color: var(--ph-danger);
+  font-weight: 600;
+}
+
+/* Tag styling */
+.tag {
+  display: inline-block;
+  background-color: var(--ph-primary);
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+/* Callout boxes */
+.callout-warning {
+  border-left: 4px solid var(--ph-warning);
+}
+
+.callout-note {
+  border-left: 4px solid var(--ph-secondary);
+}
+
+.callout-important {
+  border-left: 4px solid var(--ph-danger);
+}
+
+/* Code blocks */
+.prompt-code {
+  background-color: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  white-space: pre-wrap;
+  margin: 1rem 0;
+}
+
+/* Footer */
+.page-footer {
+  margin-top: 3rem;
+  border-top: 1px solid #e0e0e0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .category-card {
+    padding: 1rem;
+  }
+}

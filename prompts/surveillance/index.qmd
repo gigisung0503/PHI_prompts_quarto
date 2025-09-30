@@ -1,0 +1,90 @@
+---
+title: "Health Surveillance Prompts"
+subtitle: "Health surveillance systems and monitoring tools"
+description: "Comprehensive prompts for designing, implementing, and evaluating health surveillance systems and monitoring activities"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+This section contains prompts for health surveillance systems and monitoring activities.
+
+## Categories
+
+- **Syndromic Surveillance** - Real-time health data monitoring
+- **Behavioral Surveillance** - Population behavior and risk factor monitoring
+- **Environmental Health Surveillance** - Environmental hazard monitoring
+- **Surveillance System Design** - Creating and optimizing surveillance systems
+- **Data Quality Assessment** - Evaluating surveillance data integrity
+
+## Key Applications
+
+- Early warning systems
+- Population health monitoring
+- Health trend analysis
+- Surveillance system evaluation
+- Data interpretation and reporting
+
+## Available Prompts
+
+<!-- ### System Design
+
+:::{.callout-tip title="System Evaluation"}
+[**Surveillance System Evaluation**](system-evaluation.qmd)
+
+Systematic evaluation of public health surveillance systems using CDC guidelines and standardized performance attributes.
+
+**Complexity:** Advanced | **Tags:** surveillance evaluation, system performance, CDC guidelines, data quality, system design
+::: -->
+
+## Getting Started
+
+1. **Define surveillance objectives** clearly and specifically
+2. **Identify target conditions** and populations for monitoring
+3. **Consider available resources** and infrastructure
+4. **Select appropriate evaluation framework** based on system maturity
+
+## Best Practices
+
+- Follow established surveillance guidelines (CDC, WHO)
+- Ensure system objectives align with public health priorities
+- Plan for regular evaluation and improvement
+- Include stakeholder engagement from the beginning
+- Consider legal and ethical requirements for data collection
+- Build in flexibility for changing health threats
+- Document system operations and procedures clearly
+
+
+## Prompts
+
+### 1. Using an URL Summarizer Application Prompt
+
+```markdown
+
+Go through the below list of URLs one by one. 
+
+For each URL: If the page cannot be opened, record the error received (e.g., "Page not found," "Access denied," etc.). 
+If the page opens successfully, analyze the content and produce a WHO-style epidemiological summary following the structure below.
+
+- WHO Epidemiological Summary Instructions:  As a WHO epidemiologist, describe the information in the article in English using the following structured format, but present the final output as a cohesive narrative in paragraph form (no bullet points or lists). Distinguish each section clearly using labeled headings.
+
+- Time: Specify the time of the event, including the time window of reported cases. If unavailable, state the date of the report. Place: Identify the exact location (district, region, department) and situate it within the country (north, south, east, west). If near a border, mention the neighboring country.
+
+- Person: Provide the number of cases (suspected, probable, and laboratory-confirmed, if available). Include numbers of severe cases requiring hospitalization and any reported deaths. 
+
+- Exposure/Source: Describe the suspected or confirmed source/route of exposure, and any contributing environmental or social factors. 
+
+- Historical Context: Add background or historical data from trusted sources (e.g., previous outbreaks, seasonal trends, endemicity, or vaccination coverage). 
+
+- Actions Taken: Summarize actions underway (e.g., “Monitoring,” “Coordinating with national authorities,” “Shared with RO & Technical Team”). 
+
+- Unknowns: Clearly state what is not yet known (e.g., missing clinical details, laboratory confirmation, epidemiological links, or historical context). 
+
+- List of URLs to process: 
+1. https://elnuevodiario.com.do/sube-a-15-los-muertos-en-panama-a-causa-del-dengue-en-2025/ 
+2. https://www.ledauphine.com/sante/2025/09/03/chikungunya-la-barre-des-300-cas-autochtones-franchie-cet-ete-en-france 
+3. https://www.chinanews.com.cn/sh/2025/09-03/10476226.shtml
+
+```

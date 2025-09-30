@@ -1,0 +1,61 @@
+---
+title: "Training and Education Prompts"
+subtitle: "Capacity building and workforce development tools"
+description: "Educational prompts for developing public health workforce capacity and professional development programs"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Capacity building and educational prompts for public health workforce development.
+
+## Categories
+
+- **Curriculum Development** - Creating training programs and curricula
+- **Case Studies** - Developing realistic scenarios for learning
+- **Assessment Tools** - Evaluation methods for training effectiveness
+- **Competency Framework** - Defining skills and knowledge requirements
+- **Professional Development** - Career advancement and skill building
+- **Simulation Exercises** - Hands-on learning experiences
+
+## Training Areas
+
+- Epidemiological methods
+- Surveillance systems
+- Emergency preparedness
+- Data analysis and interpretation
+- Communication and leadership skills
+
+## Available Prompts
+
+:::{.callout-note title="Coming Soon"}
+Training and education prompts are currently under development. These will include comprehensive frameworks for:
+
+- Competency-based curriculum design
+- Interactive case study development
+- Skills assessment methodologies
+- Professional development planning
+- Training evaluation strategies
+- Simulation exercise design
+:::
+
+## Getting Started
+
+When training and education prompts become available, they will help you:
+
+1. **Design effective curricula** based on learning objectives and competencies
+2. **Develop realistic case studies** that engage learners with practical scenarios
+3. **Create assessment tools** that measure knowledge and skill acquisition
+4. **Plan professional development** pathways for career advancement
+
+## Best Practices
+
+- Use adult learning principles in program design
+- Include diverse learning modalities (visual, auditory, kinesthetic)
+- Provide practical, hands-on application opportunities
+- Assess learning outcomes regularly and adjust accordingly
+- Include cultural competency and health equity throughout
+- Encourage peer-to-peer learning and mentorship
+- Connect training to real-world public health challenges

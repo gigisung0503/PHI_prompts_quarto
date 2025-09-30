@@ -1,0 +1,52 @@
+---
+title: "Prompt Templates"
+subtitle: "Standard formats for creating new prompts"
+description: "Templates and guidelines for contributing high-quality prompts to the library"
+---
+
+## Template Overview
+
+This section provides standardized templates for creating new prompts that maintain consistency and quality across the Public Health Intelligence Prompts Library.
+
+## Available Templates
+
+### [Standard Prompt Template](prompt-template.qmd)
+
+The core template for creating new prompts in any category. This template ensures:
+
+- Consistent structure and formatting
+- Complete metadata and documentation
+- Clear usage instructions and examples
+- Appropriate categorization and tagging
+
+## Template Usage Guidelines
+
+### When to Use Templates
+
+- **New Prompt Creation**: Always start with the standard template
+- **Prompt Updates**: Use template sections to ensure completeness
+- **Quality Review**: Check existing prompts against template requirements
+
+### Best Practices
+
+1. **Complete All Sections**: Don't skip template sections
+2. **Test Before Submitting**: Validate prompts with real scenarios
+3. **Follow Naming Conventions**: Use consistent file and variable naming
+4. **Include Examples**: Provide concrete usage examples
+5. **Add Metadata**: Complete all tags, complexity, and domain fields
+
+## Contributing New Templates
+
+Have an idea for a specialized template? See our [Contributing Guidelines](../contributing.qmd) for:
+
+- Template proposal process
+- Review and approval workflow
+- Community feedback integration
+
+---
+
+::: {.callout-tip}
+## Quick Start
+
+Ready to create a new prompt? Start with our [Standard Prompt Template](prompt-template.qmd) and follow the embedded instructions.
+:::

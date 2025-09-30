@@ -1,0 +1,58 @@
+---
+title: "Reporting Prompts"
+subtitle: "Public health reporting and communication tools"
+description: "Professional prompts for creating various types of public health reports and communications for different audiences"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Public health reporting and communication prompts for various audiences.
+
+## Categories
+
+- **Situation Reports** - Crisis and outbreak reporting
+- **Surveillance Reports** - Regular health monitoring reports
+- **Technical Briefs** - Scientific and technical documentation
+- **Policy Briefs** - Evidence-based policy recommendations
+- **Public Communications** - General public health messaging
+- **Executive Summaries** - High-level decision maker reports
+
+## Report Types
+
+- Weekly/monthly surveillance summaries
+- Outbreak investigation reports
+- Health assessment reports
+- Program evaluation reports
+- Grant and funding reports
+
+## Available Prompts
+
+### Surveillance Reports
+
+:::{.callout-tip title="Weekly Surveillance Report"}
+[**Weekly Surveillance Report Generation**](weekly-surveillance-report.qmd)
+
+Professional framework for generating weekly surveillance reports that communicate key findings to health officials and stakeholders.
+
+**Complexity:** Intermediate | **Tags:** surveillance reporting, weekly reports, public health communication, data analysis, health monitoring
+:::
+
+## Getting Started
+
+1. **Identify your target audience** (health officials, healthcare providers, public, etc.)
+2. **Determine report purpose** (routine surveillance, outbreak response, policy support)
+3. **Gather relevant data** and ensure quality checks are complete
+4. **Select appropriate prompt** based on report type and audience needs
+
+## Best Practices
+
+- Tailor language and technical detail to your audience
+- Include appropriate disclaimers about data interpretation
+- Ensure consistent formatting across report series
+- Review for sensitive information before distribution
+- Use clear, actionable recommendations
+- Include contact information for follow-up questions
+- Maintain professional tone and objective presentation

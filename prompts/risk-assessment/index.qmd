@@ -1,0 +1,58 @@
+---
+title: "Risk Assessment Prompts"
+subtitle: "Health risk evaluation and assessment tools"
+description: "Systematic prompts for conducting comprehensive health risk evaluations and assessments for public health decision-making"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true
+---
+
+Health risk evaluation and assessment prompts for public health decision-making.
+
+## Categories
+
+- **Hazard Identification** - Identifying potential health threats
+- **Exposure Assessment** - Evaluating population exposure levels
+- **Dose-Response Assessment** - Understanding health impact relationships
+- **Risk Characterization** - Comprehensive risk evaluation
+- **Vulnerability Assessment** - Population susceptibility analysis
+- **Risk Communication** - Conveying risk information effectively
+
+## Assessment Types
+
+- Environmental health risks
+- Infectious disease risks
+- Occupational health risks
+- Emergency preparedness risks
+- Population-specific risks
+
+## Available Prompts
+
+### Emergency Preparedness
+
+:::{.callout-tip title="Emergency Risk Assessment"}
+[**Public Health Emergency Risk Assessment**](emergency-risk-assessment.qmd)
+
+Systematic approach to evaluating and characterizing public health risks during emergencies and threat scenarios.
+
+**Complexity:** Advanced | **Tags:** risk assessment, emergency preparedness, threat evaluation, vulnerability analysis, emergency response
+:::
+
+## Getting Started
+
+1. **Define the threat or hazard** you need to assess
+2. **Identify the population at risk** and their characteristics
+3. **Gather available data** on exposure, health effects, and vulnerabilities
+4. **Select the appropriate assessment framework** based on threat type
+
+## Best Practices
+
+- Use standardized risk assessment frameworks when available
+- Include uncertainty analysis and confidence intervals
+- Consider cumulative and combined exposures
+- Address vulnerable populations specifically
+- Update assessments as new information becomes available
+- Engage stakeholders throughout the assessment process
+- Communicate findings clearly with appropriate caveats
